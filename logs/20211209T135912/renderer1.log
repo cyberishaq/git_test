@@ -1,0 +1,21 @@
+[2021-12-09 13:59:19.252] [renderer1] [info] Starting extension host with pid 4684.
+[2021-12-09 13:59:19.254] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 129 ms.
+[2021-12-09 13:59:22.593] [renderer1] [error] [Extension Host] (node:4684) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-12-09 14:04:56.369] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 14:06:30.671] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 14:08:32.603] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 14:13:39.786] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 14:13:39.788] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 14:15:01.282] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 14:19:43.410] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 14:19:43.412] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 15:06:37.185] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 15:07:42.070] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 15:10:37.369] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 15:19:14.609] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 15:21:09.365] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 15:22:18.581] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 15:23:21.672] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 15:29:01.052] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-09 15:34:21.333] [renderer1] [error] [Extension Host] Cancelled

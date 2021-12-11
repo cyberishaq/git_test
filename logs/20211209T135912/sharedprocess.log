@@ -1,0 +1,31 @@
+[2021-12-09 14:01:38.772] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-12-09 14:01:38.785] [sharedprocess] [info] Extensions is already requested to install ms-python.python
+[2021-12-09 14:01:49.367] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-12-09 14:01:49.368] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-12-09 14:01:49.369] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-12-09 14:01:49.370] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-12-09 14:01:56.289] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /root/repos/git_test/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-12-09 14:01:56.435] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.57d4a648-a05a-4ef4-8e75-3103389876d7: ms-toolsai.jupyter-keymap
+[2021-12-09 14:01:56.454] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-12-09 14:01:56.458] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-12-09 14:02:05.485] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /root/repos/git_test/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-09 14:02:06.317] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.13a47d06-c040-4753-a4a6-a1267c74442b: ms-toolsai.jupyter-renderers
+[2021-12-09 14:02:06.347] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.4
+[2021-12-09 14:02:06.354] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-12-09 14:02:22.304] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /root/repos/git_test/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.10.1101450599
+[2021-12-09 14:02:22.309] [sharedprocess] [info] Downloaded extension: ms-python.python /root/repos/git_test/CachedExtensionVSIXs/ms-python.python-2021.11.1422169775
+[2021-12-09 14:02:28.366] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.485b6adb-07dd-47cb-b9b7-a1fd85eb4872: ms-toolsai.jupyter
+[2021-12-09 14:02:28.477] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599
+[2021-12-09 14:02:28.510] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-12-09 14:02:34.377] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.9f53aafa-a023-4ffd-b2ff-f0e122cc48cd: ms-python.python
+[2021-12-09 14:02:34.420] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2021.11.1422169775
+[2021-12-09 14:02:34.432] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-12-09 14:02:55.726] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /root/repos/git_test/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.12.0
+[2021-12-09 14:03:06.486] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.83181ba6-1f4f-491b-bb07-f284972fd860: ms-python.vscode-pylance
+[2021-12-09 14:03:06.517] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.vscode-pylance-2021.12.0
+[2021-12-09 14:03:06.532] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-12-09 14:03:06.561] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-12-09 14:03:06.562] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-12-09 14:03:06.565] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-12-09 14:03:06.566] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-12-09 14:03:06.567] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

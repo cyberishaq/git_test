@@ -1,0 +1,18 @@
+Info 2021-12-09 14:03:10: Experimentation service retrieved: [object Object]
+Info 2021-12-09 14:03:10: ZMQ install verified.
+Error 2021-12-09 14:03:11: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/root/.config/Code/User/settings.json' (Error: Unable to resolve nonexistent file '/root/.config/Code/User/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:164282)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/root/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:102:789683)
+	at async g.fixSettingsFile (/root/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:66:322174)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/root/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:66:323924)] {
+  code: 'FileNotFound'
+}
+Info 2021-12-09 15:36:49: Shutting down notebooks for 03f7e556-9152-46f8-acd4-7c44d0be9251
+Info 2021-12-09 15:36:49: Disposing HostJupyterExecution 3d196252-43ea-4b72-b096-0db6d000ebf7
+Info 2021-12-09 15:36:49: Disposing super HostJupyterExecution 3d196252-43ea-4b72-b096-0db6d000ebf7
+Info 2021-12-09 15:36:49: Disposing HostJupyterExecution 3d196252-43ea-4b72-b096-0db6d000ebf7
+Info 2021-12-09 15:36:49: Finished disposing HostJupyterExecution  3d196252-43ea-4b72-b096-0db6d000ebf7
+Info 2021-12-09 15:36:50: Cleaning up server cache 3d196252-43ea-4b72-b096-0db6d000ebf7
+Info 2021-12-09 15:36:50: Finished disposing HostJupyterExecution  3d196252-43ea-4b72-b096-0db6d000ebf7

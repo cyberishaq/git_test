@@ -1,0 +1,4 @@
+Validating found git in: git
+Using git 2.33.0 from git
+> git clone personal /root/repos/git_test/Crash Reports/personal --progress
+fatal: repository 'personal' does not exist

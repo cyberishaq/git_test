@@ -1,0 +1,15 @@
+[2021-12-10 01:23:46.286] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-12-10 01:23:46.297] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-12-10 01:24:04.263] [sharedprocess] [info] Downloaded extension: ms-python.python /root/repos/git_test/CachedExtensionVSIXs/ms-python.python-2021.12.1559732655
+[2021-12-10 01:24:05.664] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /root/repos/git_test/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.12.1
+[2021-12-10 01:24:16.035] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.9b130391-6102-44ba-aa5d-df8edc07891c: ms-python.python
+[2021-12-10 01:24:16.455] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2021.12.1559732655
+[2021-12-10 01:24:16.477] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-12-10 01:24:16.512] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-12-10 01:24:22.977] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.67d3b7cb-82be-46c8-8e0f-febd6044d10b: ms-python.vscode-pylance
+[2021-12-10 01:24:23.038] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.vscode-pylance-2021.12.1
+[2021-12-10 01:24:23.044] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-12-10 01:24:23.058] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-12-10 04:18:50.738] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-10 10:16:38.450] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-10 10:47:46.193] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

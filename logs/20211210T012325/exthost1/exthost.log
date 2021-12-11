@@ -1,0 +1,14 @@
+[2021-12-10 01:23:35.197] [exthost] [info] Extension host with pid 8005 started
+[2021-12-10 01:23:36.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-10 01:23:36.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-10 01:23:36.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-10 01:23:38.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-10 01:23:38.749] [exthost] [info] Eager extensions activated
+[2021-12-10 01:23:38.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-10 01:23:38.947] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-10 01:23:59.130] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 301
+[2021-12-10 03:57:00.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-10 03:57:00.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-10 03:57:03.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-10 03:58:16.694] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
+[2021-12-10 04:12:05.562] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 304

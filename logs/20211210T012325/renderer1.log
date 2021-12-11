@@ -1,0 +1,8 @@
+[2021-12-10 01:23:30.144] [renderer1] [info] Starting extension host with pid 8005.
+[2021-12-10 01:23:30.147] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 138 ms.
+[2021-12-10 01:23:34.609] [renderer1] [error] [Extension Host] (node:8005) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-12-10 01:25:19.370] [renderer1] [error] [Extension Host] Cancelled
+[2021-12-10 03:56:43.934] [renderer1] [error] [Extension Host] Error: User did not consent to login.
+    at a.doGetSession (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1710:3375)
+    at async a.$getSession (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1710:3677)
